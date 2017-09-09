@@ -12,7 +12,7 @@ public class HashtableExample1{
     /*agregando elementos al hastable*/
     h.put(1,"Tom y Jerry");//primer elemento agregado
     h.put(2,"Keep up your hard work, and go Bears!");
-    h.put(3,"Kristina Basham");//ultimo elemento agregado
+    h.put(3,"Kristina Basham");
     h.put(4,"Tienes que encontrar la forma de estar relajado en el peor de los casos");//ultimo elemento agregado
     h.put(5,"Asume siempre lo peor");
     h.put(6,"Harvard University");
